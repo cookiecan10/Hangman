@@ -21,7 +21,7 @@ public class Hangman {
     public Hangman(){
     }
     
-    public void Run() throws IOException{
+    public void run() throws IOException{
         
         view = new View();
         

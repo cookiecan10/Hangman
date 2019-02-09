@@ -20,11 +20,11 @@ public class HangmanGame {
         // TODO code application logic here
         
         Hangman h = new Hangman();
-        h.Run();
+        h.run();
         System.out.println("");
         System.out.println("Lol we just did one game, let's do another");
         System.out.println("");
-        h.Run();
+        h.run();
     }
     
 }
